@@ -18,4 +18,4 @@ For this project, we will use five different regression models, to pick the best
 A naive benchmark would be to select the mean or median of the sale price.
 
 ## Performance Metric
-We can measure the success of our model using the $R^2$ score.
+We can measure the success of our model using the R^2 score.
